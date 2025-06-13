@@ -1,3 +1,11 @@
+# Tron_v1.1.py
+# designed by:
+#   ██████  ██       ██  ██    ██ ███████ ██████  
+#  ██    ██ ██       ██  ██    ██ ██      ██   ██ 
+#  ██    ██ ██       ██  ██    ██ █████   ██████  
+#  ██    ██ ██       ██   ██  ██  ██      ██   ██ 
+#   ██████  ███████  ██    ████   ███████ ██   ██ 
+# (c) 2025 by oliver@devtron.pro
 from turtle import *
 from freegames import square, vector
 import pygame
